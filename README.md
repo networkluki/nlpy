@@ -1,4 +1,4 @@
-# nlpy
+# networkluki python scripts
 
 A unified repository for Python scripts focused on automation, server setup, and analysis.
 
